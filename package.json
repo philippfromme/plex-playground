@@ -1,0 +1,17 @@
+{
+  "name": "plex-playground",
+  "version": "0.1.0",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "npm run tracks-not-in-playlist",
+    "tracks-not-in-playlist": "node scripts/tracks-not-in-playlist/index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "Node.js playground for some basic Plex operations.",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "plex-api": "^5.3.2"
+  }
+}
