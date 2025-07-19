@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "main": "index.mjs",
   "scripts": {
-    "start": "npm run tracks-not-in-playlist",
-    "tracks-not-in-playlist": "node scripts/tracks-not-in-playlist/index.mjs"
+    "export-playlists": "node scripts/export-playlists/index.mjs",
+    "export-tracks-not-in-playlist": "node scripts/export-tracks-not-in-playlist/index.mjs"
   },
   "keywords": [],
   "author": "",

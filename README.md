@@ -1,8 +1,9 @@
 # Plex Playground 🛝
 
-## Tools
+## Scripts
 
-- create list of all tracks not in playlist
+- export playlists as CSV files (artist,album,title)
+- export tracks not in any playlist
 
 # License
 
